@@ -17,12 +17,12 @@ $ sudo apt-get install git build-essential gdb-multiarch qemu-system-misc gcc-ri
 
 ## 完成进度
 
-> **3 / 10**
+> **4 / 10**
 
 - [x] [Lab: Xv6 and Unix utilities](doc/Xv6-and-Unix-utilities.md) (分支：`util`)
 - [x] [Lab: system calls](doc/system-calls.md) (分支：`syscall`)
 - [x] [Lab: page tables](doc/page-tables.md) (分支：`pgtbl`)
-- [ ] Lab: traps
+- [x] [Lab: traps](doc/traps.md) (分支：`traps`)
 - [ ] Lab: Copy-on-Write Fork for xv6
 - [ ] Lab: Multithreading
 - [ ] Lab: networking
